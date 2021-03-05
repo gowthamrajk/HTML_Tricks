@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Input Form</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<style>
+		.container{
+			background-color: #bbbfbb;
+			margin-left: 20%;
+			margin-right: 20%;
+		}
+		.input-container{
+			padding: 5%;
+		}
+		.input{
+			margin: 10px 0px 10px;
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+		}
+		.input:focus{
+			 border: 1px solid #f5ba1a;
+		}
+	</style>
+</head>
+<body>
+	<center><h2>Input Form</h2></center>
+	<div class="container">
+		<div class="input-container">
+			<label><b>Enter your username</b></label><br>
+			<input type="text" class="input" name="username" id="username" onkeyup="validate()" placeholder="your username"/><br>
+			<label><b>Enter your email</b></label><br>
+			<input type="email" class="input" name="email" id="email" onkeyup="validate()" placeholder="your Email"/><br>
+			<label><b>Enter your password</b></label><br>
+			<input type="password" class="input" name="password" onkeyup="validate()" id="password" placeholder="your Password"/>
+		</div>
+	</div>
+	<script>
+		function validate(){
+			var username = document.getElementById("username").value;
+			var mail = document.getElementById("email").value;
+			var password = document.getElementById("password").value;
+			if(username != '')
+			document.getElementById("username").style.border = "3px solid green";
+		    if(mail!='')
+		    document.getElementById("email").style.border = "3px solid green";
+		    if(password!='')
+		    document.getElementById("password").style.border = "3px solid green";
+		}
+		$(document).ready(function() 
+		{
+            $('#username').click(function()
+            {
+            	var username = document.getElementById("username").value;
+                if (username === '') {
+                    document.getElementById("username").style.border = "3px solid red";
+                }
+                else{
+    	            document.getElementById("username").style.border = "3px solid green";
+                }
+            })
+        });
+        $(document).ready(function() 
+		{
+            $('#email').click(function()
+            {
+                var mail = document.getElementById("email").value;
+                if (mail === '') {
+                    document.getElementById("email").style.border = "3px solid red";
+                }
+                else{
+    	            document.getElementById("email").style.border = "3px solid green";
+                }
+            })
+        });
+        $(document).ready(function() 
+		{
+            $('#password').click(function()
+            {
+            	var password = document.getElementById("password").value;
+                if (password === '') {
+                    document.getElementById("password").style.border = "3px solid red";
+                }
+                else{
+    	            document.getElementById("password").style.border = "3px solid green";
+                }
+            })
+        });
+	</script>
+</body>
+</html>
