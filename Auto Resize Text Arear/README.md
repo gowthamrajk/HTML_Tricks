@@ -40,3 +40,8 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 
 <br>
 
+<div align="center">
+  
+# Show some ❤️ by starring this repository !!!
+  
+</div>
