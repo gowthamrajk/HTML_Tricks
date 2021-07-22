@@ -7,3 +7,5 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 
 - Automatic Resize of text areas
 - Automatic scroll down when resizing
+
+# TECHNOLOGIES USED 📌
