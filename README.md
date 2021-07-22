@@ -1,6 +1,6 @@
-# HTML_Tricks
+# HTML_Tricks ❤️ 
 
-- This module consists of some HTML files which gives a demo on validation Tricks
+- This module consists of some HTML Tricks and Tips which helps you to improve your HTML knowledge
 
 # 1) Input field validation:
 
