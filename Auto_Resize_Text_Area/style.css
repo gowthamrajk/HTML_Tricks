@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: rgb(2,37,31);
+  background: linear-gradient(90deg, rgba(2,37,31,1) 0%, rgba(9,121,112,1) 27%, rgba(20,185,169,1) 56%, rgba(0,255,221,1) 100%);
+}
+
+::selection{
+  color: #fff;
+  background: #4671EA;
+}
+
+.wrapper
+{
+  width: 470px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px 25px 30px;
+  box-shadow: 4px 4px 35px 8px #02251f;
+}
+
+.wrapper h2{
+  color: #02251f;
+  font-size: 28px;
+  text-align: center;
+}
+
+.wrapper textarea{
+  width: 100%;
+  resize: none;
+  height: 59px;
+  outline: none;
+  padding: 15px;
+  font-size: 16px;
+  margin-top: 20px;
+  scroll-behavior: smooth;
+  border-radius: 5px;
+  max-height: 330px;
+  border-radius: 10px;
+  caret-color: #4671EA;
+  border: 1px solid #bfbfbf;
+}
+
+textarea::placeholder{
+  color: #b3b3b3;
+  font-weight: bold;
+}
+
+textarea:is(:focus, :valid){
+  padding: 14px;
+  border: 2px solid #02251f;
+}
+
+textarea::-webkit-scrollbar{
+  width: 5px;
+  color: #b3b3b3;
+}
