@@ -34,7 +34,7 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 ![image](https://user-images.githubusercontent.com/43011442/126609817-7e0579c5-2e19-46ab-923b-a86617e8d3f9.png)
 
 
-
+<br><br>
 
 
 
