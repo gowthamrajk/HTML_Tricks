@@ -45,3 +45,13 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 # Show some ❤️ by starring this repository !!!
   
 </div>
+
+<br>
+
+## Project Developed & Maintained By 
+
+# ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Fullstack+Web+Developer&color=0b3d36&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=UI+Designer&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Learning+new+things&color=0c0c4f&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Design+Thinker&color=0b3d17&label=) 
+
+<br>
