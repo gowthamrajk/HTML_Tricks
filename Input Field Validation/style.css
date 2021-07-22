@@ -1,0 +1,18 @@
+.container
+{
+	background-color: #f8ff7d;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.input-container{
+	padding: 5%;
+}
+.input{
+	margin: 10px 0px 10px;
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+}
+.input:focus{
+	border: 1px solid #f5ba1a;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Input Form Validation</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+	<center><h2>Input Form</h2></center>
+	<div class="container">
+		<div class="input-container">
+			<label><b>Enter your username</b></label><br>
+			<input type="text" class="input" name="username" id="username" onkeyup="validate()" placeholder="your username"/><br>
+			<label><b>Enter your email</b></label><br>
+			<input type="email" class="input" name="email" id="email" onkeyup="validate()" placeholder="your Email"/><br>
+			<label><b>Enter your password</b></label><br>
+			<input type="password" class="input" name="password" onkeyup="validate()" id="password" placeholder="your Password"/>
+		</div>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>
