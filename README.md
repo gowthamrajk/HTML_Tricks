@@ -2,6 +2,8 @@
 
 - This module consists of some HTML files which gives a demo on validation Tricks
 
+# TECHNOLOGIES USED 📌
+
 # Input field validation:
 
 ![image](https://user-images.githubusercontent.com/43011442/115967063-20210880-a54e-11eb-8913-84db9f92746c.png)
