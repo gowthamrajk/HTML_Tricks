@@ -4,7 +4,15 @@
 
 # Projects 📺
 
-## 1) Input Field Validation:
+## 1) Auto Resize Text Area
+
+**Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Auto_Resize_Text_Area**
+
+
+
+<br>
+
+## 2) Input Field Validation:
 
 **Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Input_Field_Validation**
 
