@@ -1,5 +1,7 @@
 # HTML_Tricks ❤️ 
 
+![](https://img.shields.io/github/languages/count/gowthamrajk/HTML_Tricks)   ![](https://img.shields.io/github/languages/top/gowthamrajk/HTML_Tricks)
+
 - This module consists of some HTML Tricks and Tips which helps you to improve your HTML knowledge
 
 # Projects 📺
