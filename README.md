@@ -6,7 +6,8 @@
 
 ## 1) Input Field Validation:
 
-### Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Input%20Field%20Validation
+**Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Input_Field_Validation**
+
 ![image](https://user-images.githubusercontent.com/43011442/115967063-20210880-a54e-11eb-8913-84db9f92746c.png)
 
 
