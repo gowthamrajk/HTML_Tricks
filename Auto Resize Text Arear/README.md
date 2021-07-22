@@ -26,7 +26,7 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 
 ## Befor Entering Text
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/43011442/126609541-65b7c8bf-40eb-4dd1-ba05-972f10797e39.png)
 
 
 
