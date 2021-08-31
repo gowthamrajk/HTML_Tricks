@@ -29,6 +29,7 @@ This is a simple webpage which demonstrates about the automatic resize for text 
 
 ![image](https://user-images.githubusercontent.com/43011442/126609541-65b7c8bf-40eb-4dd1-ba05-972f10797e39.png)
 ![image](https://user-images.githubusercontent.com/43011442/131467243-cde07d43-5611-497f-9e9a-aaa6b37bd4ba.png)
+![image](https://user-images.githubusercontent.com/43011442/131467316-a6d54a5b-b2d2-4889-b161-a865a1f36f13.png)
 
 
 ## After Entering Text
