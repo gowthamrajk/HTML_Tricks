@@ -20,7 +20,7 @@
 
 <br>
 
-# TECH STACKS IN DEVELOPMENT 📌
+# Tech Stacks used 📌
 
 ## Front End 📫
 
