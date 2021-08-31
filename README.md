@@ -19,7 +19,8 @@
 **Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Input_Field_Validation**
 
 <br>
-# TECHN STACKS IN DEVELOPMENT 📌
+
+# TECH STACKS IN DEVELOPMENT 📌
 
 ## Front End 📫
 
